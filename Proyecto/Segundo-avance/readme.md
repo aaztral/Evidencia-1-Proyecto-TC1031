@@ -1,5 +1,5 @@
-# Proyecto: Nombre de tu proyecto
-Escribe aquí un overview general de tu proyecto
+# Proyecto: Los Mejores de la NFL
+Este proyecto seleccionará posiciones dentro de el juego de Football Americano, particularmente los pertenecientes a la NFL, se podrá escoger entre una lista de jugadores de esas posiciones y rankearlo según sus atributos como velocidad, fuerza o un overall de todas sus estadisticas con ayuda de mecanismos de sorting y escoger al mejor jugador de cada posición.
 
 ## Descripción del avance 1
 Pega aquí la descripción de tu primer avance.
