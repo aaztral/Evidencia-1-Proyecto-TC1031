@@ -1,0 +1,5 @@
+Patrick Mahomes,97,87,70,87
+Joe Burrow,94,83,68,82
+Josh Allen,93,88,80,85
+Lamar Jackson,98,95,63,95
+Justin Herbert,86,86,71,80

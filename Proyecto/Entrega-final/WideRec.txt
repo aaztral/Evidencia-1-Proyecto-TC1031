@@ -1,0 +1,5 @@
+Justin Jefferson,99,92,64,93
+Davante Adams,90,90,63,95
+Tyreek Hill,98,99,64,98
+Stefon Diggs,91,92,62,92
+A.J. Brown,95,91,79,86
