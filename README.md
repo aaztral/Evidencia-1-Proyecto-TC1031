@@ -79,3 +79,29 @@ En el proyecto lee 3 archivos distintos para cargar los datos de las estructuras
 
 ### Implementa mecanismos de escritura de archivos para guardar los datos  de las estructuras de manera correcta
 Si lograste este criterio anteriormente, copia aquí tu argumentación. Si no, ésta es una nueva oportunidad para lograrlo. Escribe aquí tu aprendizaje y tus argumentos sobre por qué consideras que ahora ya has desarrrollado este criterio y dónde se puede observar el desarrollo que mencionas.
+
+# Evidencia 2: Problemas.
+
+### Submission links: 
+#### Problema 1:
+
+https://leetcode.com/problems/bag-of-tokens/submissions/1465990959/?envType=problem-list-v2&envId=sorting 
+
+#### Problema 2:
+
+https://leetcode.com/problems/design-browser-history/submissions/1465991952/
+
+#### Problema 3:
+
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/
+
+### Videos:
+
+https://drive.google.com/drive/folders/1vLmUl7IB4jKtQchLNx9gHRGYPnG1TTnv?usp=drive_link 
+
+### Son videos separados en una misma carpeta
+
+### VIDEO DE AYUDA PROBLEMA 3: 
+
+https://www.youtube.com/watch?v=2IHdqU48N2w
+
